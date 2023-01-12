@@ -1,0 +1,15 @@
+/Users/nikolaysidorov/Desktop/12.01.23/example006giri/bin/Debug/net6.0/example006giri
+/Users/nikolaysidorov/Desktop/12.01.23/example006giri/bin/Debug/net6.0/example006giri.deps.json
+/Users/nikolaysidorov/Desktop/12.01.23/example006giri/bin/Debug/net6.0/example006giri.runtimeconfig.json
+/Users/nikolaysidorov/Desktop/12.01.23/example006giri/bin/Debug/net6.0/example006giri.dll
+/Users/nikolaysidorov/Desktop/12.01.23/example006giri/bin/Debug/net6.0/example006giri.pdb
+/Users/nikolaysidorov/Desktop/12.01.23/example006giri/obj/Debug/net6.0/example006giri.csproj.AssemblyReference.cache
+/Users/nikolaysidorov/Desktop/12.01.23/example006giri/obj/Debug/net6.0/example006giri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolaysidorov/Desktop/12.01.23/example006giri/obj/Debug/net6.0/example006giri.AssemblyInfoInputs.cache
+/Users/nikolaysidorov/Desktop/12.01.23/example006giri/obj/Debug/net6.0/example006giri.AssemblyInfo.cs
+/Users/nikolaysidorov/Desktop/12.01.23/example006giri/obj/Debug/net6.0/example006giri.csproj.CoreCompileInputs.cache
+/Users/nikolaysidorov/Desktop/12.01.23/example006giri/obj/Debug/net6.0/example006giri.dll
+/Users/nikolaysidorov/Desktop/12.01.23/example006giri/obj/Debug/net6.0/refint/example006giri.dll
+/Users/nikolaysidorov/Desktop/12.01.23/example006giri/obj/Debug/net6.0/example006giri.pdb
+/Users/nikolaysidorov/Desktop/12.01.23/example006giri/obj/Debug/net6.0/example006giri.genruntimeconfig.cache
+/Users/nikolaysidorov/Desktop/12.01.23/example006giri/obj/Debug/net6.0/ref/example006giri.dll
